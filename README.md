@@ -1,4 +1,5 @@
-### Welkom! I'm Conni2, currently studying Front-end and formerly studied Python for data collecting and analysis!
+### Welkom! 
+I'm Conni2, currently studying Front-end and formerly studied Python for data collecting and analysis!
 Donc, quoi de neuf?
 
 <!--
