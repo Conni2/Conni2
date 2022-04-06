@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welkom! I'm Conni2, currently studying Front-end and formerly studied Python for data collecting and analysis!
+Donc, quoi de neuf?
 
 <!--
 **Conni2/Conni2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conni2&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conni2&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conni2&layout=compact)
