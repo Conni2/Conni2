@@ -1,4 +1,4 @@
-### Welkom! 
+### print("Bonjour, Tout le monde!"
 Nice to e-meet you :) I am Connie and currently practicing python for data analysis!
 
 <!--
