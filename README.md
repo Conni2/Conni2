@@ -1,5 +1,5 @@
-### print("Bonjour, Tout le monde!"
-Nice to e-meet you :) I am Connie and currently practicing python for data analysis!
+### print("Bonjour, Tout le monde!")
+Nice to e-meet you :) I am Connie Keum and currently practicing python for data analysis!
 
 <!--
 **Conni2/Conni2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
