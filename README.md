@@ -5,7 +5,7 @@ Salut! I'm Connie, a data enthusiast with a flair for impactful business decisio
 <details>
 <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Wind%20Face.png" alt="Wind Face" width="25" height="25" /> Pursuing Dreams in Data Science</summary>
 
-My goal is to leverage the power of data to make impactful decisions that not only drive sustainable business growth but also create a ripple effect of positive cycles, ultimately contribute to positive societal changes.
+My goal is to leverage the power of data to make impactful decisions that not only drive sustainable business growth but also create a ripple effect of positive cycles, ultimately contributing to positive societal changes.
 
 </details>
 
@@ -34,9 +34,9 @@ But I also have experiences in other languages which are: </br>
 
 <details>
 <summary>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Convenience%20Store.png" alt="Convenience Store" width="25" height="25" /> In case if you know more about me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Convenience%20Store.png" alt="Convenience Store" width="25" height="25" /> In case if you want to know more about me
 </summary>
-<img src = "http://mazassumnida.wtf/api/generate_badge?boj=Conni2">
+<img src = "http://mazassumnida.wtf/api/generate_badge?boj=goranni2">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Conni2&layout=compact">
 </details>
 
