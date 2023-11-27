@@ -1,6 +1,6 @@
 <h1> Coucou! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Medium-Light Skin Tone" width="25" height="25" /> </h1>
 
-Salut! I'm Connie, a data enthusiast with a flair for impactful business decisions backed by numbers and strong reasoning. After graduating from university, I embarked on a journey in the corporate world and I soon realized my true passion lies in the realm of data science.
+Salut! I'm Connie, a data enthusiast with a passion for impactful business decisions backed by numbers and strong reasoning.
 
 <details>
 <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Wind%20Face.png" alt="Wind Face" width="25" height="25" /> Pursuing Dreams in Data Science</summary>
