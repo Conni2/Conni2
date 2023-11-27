@@ -36,7 +36,7 @@ But I also have experiences in other languages which are: </br>
 <summary>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Convenience%20Store.png" alt="Convenience Store" width="25" height="25" /> In case if you know more about me
 </summary>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=Conni2)](https://solved.ac/Conni2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conni2&layout=compact)
+<img src = "http://mazassumnida.wtf/api/generate_badge?boj=Conni2">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Conni2&layout=compact">
 </details>
 
